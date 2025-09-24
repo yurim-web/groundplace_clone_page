@@ -91,8 +91,8 @@ src/
 
 1. **저장소 클론**
    ```bash
-   git clone https://github.com/yurim-web/groundplace_clone_page.git
-   cd groundplace_clone_page
+   git clone https://github.com/yurim-web/grandplace_home.git
+   cd grandplace_home
    ```
 
 2. **의존성 설치**
@@ -131,31 +131,6 @@ npm test
 - ✅ **이미지 최적화 및 경로 관리**
 - ✅ **스크롤 기반 인터랙션 구현**
 
-## 🏢 그라운드플레이스 정보
-
-**📍 위치**: 제주특별자치도 제주시 한경면 두모리 1931  
-**📞 연락처**: 010-3366-8308  
-**🏢 사업자번호**: 367-17-02082 (대표: 전민수)  
-**🏠 농어촌민박번호**: 한경면 제733호  
-
-## 📸 스크린샷
-
-### 메인 슬라이더
-![메인 슬라이더](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Main+Slider)
-
-### 특별 서비스 갤러리
-![특별 서비스](https://via.placeholder.com/800x400/7ED321/FFFFFF?text=Special+Services)
-
-### 비디오 섹션
-![비디오 섹션](https://via.placeholder.com/800x400/9013FE/FFFFFF?text=Video+Section)
-
-## 🤝 기여하기
-
-이 프로젝트는 학습 목적의 클론 코딩 프로젝트입니다. 
-
-- 🐛 **버그 리포트**: Issues 탭에서 버그를 신고해주세요
-- 💡 **개선 제안**: 새로운 아이디어나 개선사항을 제안해주세요
-- 📚 **학습 자료**: 이 프로젝트를 학습 자료로 활용해주세요
 
 ## 📄 라이선스
 
@@ -174,7 +149,7 @@ DESIGNED & PHOTO BY 언제나,디자인
 
 **🏖️ Groundplace Clone - React와 GSAP을 활용한 웹 개발 학습 프로젝트 🚀**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yurim-web/groundplace_clone_page)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yurim-web/grandplace_home)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Website-green?style=for-the-badge&logo=vercel)](https://yurim-web.github.io/groundplace_clone_page)
 
 </div>
