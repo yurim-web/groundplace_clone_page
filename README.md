@@ -21,7 +21,9 @@
 
 ## 🚀 라이브 데모
 
-**[🌐 웹사이트 바로가기](https://yurim-web.github.io/groundplace_clone_page)**
+**[🌐 웹사이트 바로가기](https://yurim-web.github.io/groundplace_clone_page/)**
+
+> **📝 참고**: 원본 소스코드는 [grandplace_home](https://github.com/yurim-web/grandplace_home) 저장소에, 배포용 빌드 파일은 [groundplace_clone_page](https://github.com/yurim-web/groundplace_clone_page) 저장소에 있습니다.
 
 ## 🛠️ 기술 스택
 
@@ -149,7 +151,8 @@ DESIGNED & PHOTO BY 언제나,디자인
 
 **🏖️ Groundplace Clone - React와 GSAP을 활용한 웹 개발 학습 프로젝트 🚀**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yurim-web/grandplace_home)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Website-green?style=for-the-badge&logo=vercel)](https://yurim-web.github.io/groundplace_clone_page)
+[![Source Code](https://img.shields.io/badge/Source%20Code-Repository-black?style=for-the-badge&logo=github)](https://github.com/yurim-web/grandplace_home)
+[![Build Files](https://img.shields.io/badge/Build%20Files-Deploy%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/yurim-web/groundplace_clone_page)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Website-green?style=for-the-badge&logo=vercel)](https://yurim-web.github.io/groundplace_clone_page/)
 
 </div>
